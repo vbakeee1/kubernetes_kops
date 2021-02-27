@@ -18,7 +18,7 @@ kubectl delete deploy nginx
 
 ```
 - name: PHOENIX_CHAT_HOST
-  value: "chat.poeticoding.com"
+  value: "chat.bibekkumarshah.com"
           
 ```
 # create chatapp with load balencer
